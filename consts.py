@@ -1,0 +1,1 @@
+URL_KANOPY_STAGING_HOME = "https://guest-feedback-test.revinate.com/login"
